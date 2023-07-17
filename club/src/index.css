@@ -1,0 +1,42 @@
+.app {
+  background-color: #bd9f80;
+  padding: 40px;
+}
+
+.style1 {
+  color: #420ecf;
+}
+
+.style2 {
+  color: #940025;
+}
+
+.style3 {
+  color: #ffbb00;
+}
+.style4 {
+  background-color: #ce0e6e;
+}
+
+
+.club-info {
+  margin-bottom: 20px;
+}
+
+.club-emblem {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.club-achievements {
+  margin-bottom: 40px;
+}
+
+.club-squad {
+  font-weight:lighter;
+}
+
+.club-squad li {
+  margin-bottom: 10px;
+}

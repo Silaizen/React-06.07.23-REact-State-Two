@@ -1,0 +1,40 @@
+.magic-8-ball {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #351e6f;
+  color: #dc410d;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.title {
+  font-size: 32px;
+  margin-bottom: 30px;
+}
+
+.question-form {
+  margin-bottom: 30px;
+}
+
+input[type='text'] {
+  width: 500px;
+  padding: 10px;
+  font-size: 20px;
+}
+
+button {
+  background-color: #fff;
+  color: #001eff;
+  padding: 10px 20px;
+  border-radius: 30px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.answer {
+  margin-top: 30px;
+}
+
